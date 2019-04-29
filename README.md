@@ -1,3 +1,3 @@
 # Technical-Challenge
 
-Game: https://redpandarevolt.github.io/Technical-Challenge/build/
+Game: https://redpandarevolt.github.io/Technical-Challenge/TechChall/
